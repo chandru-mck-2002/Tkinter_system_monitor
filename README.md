@@ -31,6 +31,20 @@ The main window contains features like VS Code launcher, mail access, and a temp
                                     
    ![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/a89a526b-3611-40e5-8477-131fe8108908)
 
-# install all required package("From requirements.txt")
+# install all required package("From requirements.txt"):
                     
                        pip install -r requirements.txt
+
+#Config User Setting("config.ini file"):
+
+                      [database]
+                     host = localhost      #user host name
+                     user = your_mysql_username  
+                     password = your_mysql_password  #my sql work env. password
+                     database = your_database_name  
+
+                    [email]
+                    sender_email = "to"
+                    receiver_email = "from"
+                    password = "app password like umxxheedmcbwxpbs" 
+
