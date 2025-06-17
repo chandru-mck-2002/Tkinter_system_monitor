@@ -20,7 +20,7 @@ Provides a text area where users can write notes and save them to a MySQL databa
 
 > Temporary File Cleanup:
 Includes functionality to clean temporary files to free up space.
-
+---
 # USER INTERFACE
                                      
    ![Screenshot 2025-06-17 232146](https://github.com/user-attachments/assets/4e85c1dd-4933-405f-a347-767021167a7a)
@@ -35,7 +35,7 @@ Features include:
 ✅ Monitor CPU temperature
 ✅ Display tips to improve cooling and system performance
                                     
-
+---
 # install all required package("From requirements.txt"):
                     
                        pip install -r requirements.txt
