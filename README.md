@@ -35,7 +35,7 @@ The main window contains features like VS Code launcher, mail access, and a temp
                     
                        pip install -r requirements.txt
 
-#Config User Setting("config.ini file"):
+# Config User Setting("config.ini file"):
 
                       [database]
                      host = localhost      #user host name
@@ -47,4 +47,20 @@ The main window contains features like VS Code launcher, mail access, and a temp
                     sender_email = "to"
                     receiver_email = "from"
                     password = "app password like umxxheedmcbwxpbs" 
+
+# .EXE Conversion (for Windows)
+                 pyinstaller \
+                  --onedir \
+                  --windowed \
+                  --name "Battery_Assistant" \
+                  --icon="assets/app_icon.ico" \
+                  --add-data "assets:assets" \
+                  --add-data "config.ini:." \
+                  app.py
+
+dependence file should be included.....
+
+
+# Future Improvement:
+Add an LLM (Large Language Model) integration with the Windows application to enable a chatbot that can perform system control tasks
 
