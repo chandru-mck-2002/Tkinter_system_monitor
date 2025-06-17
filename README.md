@@ -43,20 +43,20 @@ The main window contains features like VS Code launcher, mail access, and a temp
                      password = your_mysql_password  #my sql work env. password
                      database = your_database_name  
 
-                    [email]
-                    sender_email = "to"
-                    receiver_email = "from"
-                    password = "app password like umxxheedmcbwxpbs" 
+                      [email]
+                     sender_email = "to"
+                     receiver_email = "from"
+                     password = "app password like umxxheedmcbwxpbs" 
 
 # .EXE Conversion (for Windows)
-                 pyinstaller \
-                  --onedir \
-                  --windowed \
-                  --name "Battery_Assistant" \
-                  --icon="assets/app_icon.ico" \
-                  --add-data "assets:assets" \
-                  --add-data "config.ini:." \
-                  app.py
+                      pyinstaller \
+                     --onedir \
+                     --windowed \
+                     --name "Battery_Assistant" \
+                     --icon="assets/app_icon.ico" \
+                     --add-data "assets:assets" \
+                     --add-data "config.ini:." \
+                     app.py
 
 dependence file should be included.....
 
