@@ -66,8 +66,8 @@ Features include:
                      --add-data "config.ini:." \
                      app.py
  ```
----
-dependence file should be included.....
+
+- dependence file should be included.....
 --- 
 
 # Future Improvement:
