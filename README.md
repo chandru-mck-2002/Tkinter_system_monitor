@@ -22,10 +22,13 @@ Provides a text area where users can write notes and save them to a MySQL databa
 Includes functionality to clean temporary files to free up space.
 
 # USER INTERFACE
-                                     ![Screenshot 2025-06-17 225944](https://github.com/user-attachments/assets/5070dc73-da83-464a-b7c1-875c0aa1eff7)
+                                     
+   ![Screenshot 2025-06-17 232146](https://github.com/user-attachments/assets/4e85c1dd-4933-405f-a347-767021167a7a)
 
 The main window contains features like VS Code launcher, mail access, and a temporary file clearing process to boost system speed and remove unnecessary cache files. The main purpose is to provide a battery level notifier to help improve battery life
 
 # Second Window
-                                    ![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/70153ede-c50e-407b-9a50-767b83f9d963)
+                                    
+   ![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/a89a526b-3611-40e5-8477-131fe8108908)
 
+# notifications :![Screenshot 2025-06-17 232210](https://github.com/user-attachments/assets/23e124a9-6c16-41b1-b5ad-144c077c9f32)
