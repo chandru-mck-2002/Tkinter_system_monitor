@@ -37,8 +37,9 @@ Features include:
                                     
 ---
 # install all required package("From requirements.txt"):
-                    ```python
-                       pip install -r requirements.txt```
+  ```python
+  pip install -r requirements.txt
+  ```
 
 # Config User Setting("config.ini file"):
                   ```python
