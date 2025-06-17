@@ -66,9 +66,9 @@ Features include:
                      --add-data "config.ini:." \
                      app.py
  ```
-
-dependence file should be included.....
 ---
+dependence file should be included.....
+--- 
 
 # Future Improvement:
 Add an LLM (Large Language Model) integration with the Windows application to enable a chatbot that can perform system control tasks
