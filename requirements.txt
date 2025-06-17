@@ -1,0 +1,7 @@
+psutil>=5.9.0
+plyer>=2.1.0
+screen-brightness-control>=0.13.0
+Pillow>=9.0.0
+mysql-connector-python>=8.0.33
+pyttsx3>=2.90
+pyinstaller>=6.6.0
