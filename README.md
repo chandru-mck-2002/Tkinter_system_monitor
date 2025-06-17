@@ -21,5 +21,11 @@ Provides a text area where users can write notes and save them to a MySQL databa
 > Temporary File Cleanup:
 Includes functionality to clean temporary files to free up space.
 
-![Uploading Screenshot 2025-06-17 225944.png…]()
-![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/19ac6d11-0311-4c53-81ed-3cf5dc69579d)
+# USER INTERFACE
+![Screenshot 2025-06-17 225944](https://github.com/user-attachments/assets/5070dc73-da83-464a-b7c1-875c0aa1eff7)
+
+The main window contains features like VS Code launcher, mail access, and a temporary file clearing process to boost system speed and remove unnecessary cache files. The main purpose is to provide a battery level notifier to help improve battery life
+
+# Second Window
+![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/70153ede-c50e-407b-9a50-767b83f9d963)
+
