@@ -1,7 +1,7 @@
 # Tkinter_system_monitor
 
 
-###"Features included in this project"###
+### "Features included in this project" ###
 
 🔋 Battery Monitoring Desktop App (Tkinter)
 This is a desktop utility application built using Python Tkinter that monitors the system battery and provides real-time updates on the battery status. The project includes the following key features:
