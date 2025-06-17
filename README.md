@@ -29,7 +29,10 @@ The main window contains features like VS Code launcher, mail access, and a temp
 
 # Second Window:
 Features include:
-✅ Send mail to friends
+✅ Send mail to friends and connect with the database
+
+✅ Excel monitoring provided to view data analysis process
+
 ✅ Control screen brightness
 ✅ Monitor CPU temperature
 ✅ Display tips to improve cooling and system performance
