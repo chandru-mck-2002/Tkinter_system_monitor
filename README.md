@@ -31,4 +31,5 @@ The main window contains features like VS Code launcher, mail access, and a temp
                                     
    ![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/a89a526b-3611-40e5-8477-131fe8108908)
 
-#install all required package(" ")
+# install all required package("From requirements.txt")
+   pip install -r requirements.txt
