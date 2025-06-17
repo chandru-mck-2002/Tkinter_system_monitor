@@ -21,3 +21,4 @@ Provides a text area where users can write notes and save them to a MySQL databa
 > Temporary File Cleanup:
 Includes functionality to clean temporary files to free up space.
 
+![Uploading Screenshot 2025-06-17 225944.png…]()
