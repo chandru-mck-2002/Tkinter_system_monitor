@@ -22,3 +22,4 @@ Provides a text area where users can write notes and save them to a MySQL databa
 Includes functionality to clean temporary files to free up space.
 
 ![Uploading Screenshot 2025-06-17 225944.png…]()
+![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/19ac6d11-0311-4c53-81ed-3cf5dc69579d)
