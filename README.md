@@ -37,11 +37,11 @@ Features include:
                                     
 ---
 # install all required package("From requirements.txt"):
-                    
-                       pip install -r requirements.txt
+                    ```python
+                       pip install -r requirements.txt```
 
 # Config User Setting("config.ini file"):
-
+                  ```python
                       [database]
                      host = localhost      #user host name
                      user = your_mysql_username  
@@ -52,9 +52,11 @@ Features include:
                      sender_email = "to"
                      receiver_email = "from"
                      password = "app password like umxxheedmcbwxpbs" 
+                     ```
 
 # .EXE Conversion (for Windows)
-                      pyinstaller \
+                 ``` python   
+                     pyinstaller \
                      --onedir \
                      --windowed \
                      --name "Battery_Assistant" \
@@ -62,6 +64,7 @@ Features include:
                      --add-data "assets:assets" \
                      --add-data "config.ini:." \
                      app.py
+                     ```
 
 dependence file should be included.....
 
