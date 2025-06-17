@@ -31,4 +31,4 @@ The main window contains features like VS Code launcher, mail access, and a temp
                                     
    ![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/a89a526b-3611-40e5-8477-131fe8108908)
 
-# notifications :![Screenshot 2025-06-17 232210](https://github.com/user-attachments/assets/23e124a9-6c16-41b1-b5ad-144c077c9f32)
+#install all required package(" ")
