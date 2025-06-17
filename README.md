@@ -27,9 +27,13 @@ Includes functionality to clean temporary files to free up space.
 
 The main window contains features like VS Code launcher, mail access, and a temporary file clearing process to boost system speed and remove unnecessary cache files. The main purpose is to provide a battery level notifier to help improve battery life
 
-# Second Window
+# Second Window:
+Features include:
+✅ Send mail to friends
+✅ Control screen brightness
+✅ Monitor CPU temperature
+✅ Display tips to improve cooling and system performance
                                     
-   ![Screenshot 2025-06-17 225958](https://github.com/user-attachments/assets/a89a526b-3611-40e5-8477-131fe8108908)
 
 # install all required package("From requirements.txt"):
                     
