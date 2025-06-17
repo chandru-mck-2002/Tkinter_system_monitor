@@ -30,7 +30,7 @@ The main window contains features like VS Code launcher, mail access, and a temp
 # Second Window:
 Features include:
 ✅ Send mail to friends and connect with the database
-✅ Excel monitoring provided to view data analysis process
+- Excel monitoring provided to view data analysis process
 ✅ Control screen brightness
 ✅ Monitor CPU temperature
 ✅ Display tips to improve cooling and system performance
@@ -42,7 +42,7 @@ Features include:
   ```
 
 # Config User Setting("config.ini file"):
-                  ```python
+  ```python
                       [database]
                      host = localhost      #user host name
                      user = your_mysql_username  
@@ -52,11 +52,11 @@ Features include:
                       [email]
                      sender_email = "to"
                      receiver_email = "from"
-                     password = "app password like umxxheedmcbwxpbs" 
-                     ```
+                     password = "app password like umxxheedmcbwxpbs"
+ ```
 
 # .EXE Conversion (for Windows)
-                 ``` python   
+  ``` python   
                      pyinstaller \
                      --onedir \
                      --windowed \
@@ -65,10 +65,10 @@ Features include:
                      --add-data "assets:assets" \
                      --add-data "config.ini:." \
                      app.py
-                     ```
+ ```
 
 dependence file should be included.....
-
+---
 
 # Future Improvement:
 Add an LLM (Large Language Model) integration with the Windows application to enable a chatbot that can perform system control tasks
